@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MSN185/MSN185/main/MSN.png" width="100%" />
+
+</div>
+
+<br>
+
 # MSN • Mahdi Kordian
 
 <div align="center">
@@ -10,7 +18,7 @@
 
 ## ❄️ About Me
 
-<img align="right" alt="AI Android" width="320" src="https://raw.githubusercontent.com/MSN185/MSN185/main/MSN.png">
+<img align="right" alt="AI Android" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 ```yaml
 Name: Mahdi Kordian
@@ -46,15 +54,15 @@ Current Goal: Building intelligent modern systems
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Advanced-58A6FF?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-58A6FF?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-58A6FF?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-58A6FF?style=for-the-badge&logo=opencv&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Advanced-58A6FF?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-58A6FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Advanced-58A6FF?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-58A6FF?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-7EE787?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-58A6FF?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-58A6FF?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-58A6FF?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-58A6FF?style=for-the-badge\&logo=opencv\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-58A6FF?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-58A6FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-58A6FF?style=for-the-badge\&logo=android\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-58A6FF?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7EE787?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </div>
 
@@ -64,28 +72,28 @@ Current Goal: Building intelligent modern systems
 
 <div align="center">
 
-| Domain | Technologies |
-|---|---|
-| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, LLMs |
-| 👁️ Computer Vision | OpenCV, Vision Models, Image Processing |
-| 📱 Android Development | Kotlin, Android SDK, Modern Android |
-| 🧠 AI Frameworks | TensorFlow, PyTorch |
-| ⚙️ Development Tools | Git, GitHub, Linux |
+| Domain                     | Technologies                            |
+| -------------------------- | --------------------------------------- |
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, LLMs   |
+| 👁️ Computer Vision        | OpenCV, Vision Models, Image Processing |
+| 📱 Android Development     | Kotlin, Android SDK, Modern Android     |
+| 🧠 AI Frameworks           | TensorFlow, PyTorch                     |
+| ⚙️ Development Tools       | Git, GitHub, Linux                      |
 
 </div>
 
 ### 📜 Completed Courses
 
-- Machine Learning with Python
-- Applied Machine Learning
-- Deep Learning with TensorFlow & Keras
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
-- Computer Vision with OpenCV
-- Advanced Python Programming
-- Object-Oriented Programming in Python
-- Comprehensive Kotlin Development
-- Comprehensive Android Development
+* Machine Learning with Python
+* Applied Machine Learning
+* Deep Learning with TensorFlow & Keras
+* Large Language Models (LLMs)
+* Vision Language Models (VLMs)
+* Computer Vision with OpenCV
+* Advanced Python Programming
+* Object-Oriented Programming in Python
+* Comprehensive Kotlin Development
+* Comprehensive Android Development
 
 ---
 
@@ -114,4 +122,3 @@ Current Goal: Building intelligent modern systems
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:58A6FF&height=120&text=MSN&fontColor=58A6FF&fontSize=42&animation=fadeIn" />
 
 </div>
-
