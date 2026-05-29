@@ -101,9 +101,6 @@ Current Goal: Building intelligent modern systems
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSN185&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSN185&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
 <img width="90%" src="https://streak-stats.demolab.com?user=MSN185&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
