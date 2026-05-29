@@ -10,7 +10,7 @@
 
 ## ❄️ About Me
 
-<img align="right" alt="AI Android" width="320" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="right" alt="AI Android" width="320" src="https://raw.githubusercontent.com/MSN185/MSN185/main/MSN.png">
 
 ```yaml
 Name: Mahdi Kordian
