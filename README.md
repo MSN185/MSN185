@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MSN185/MSN185/main/MSN185.png" width="100%" />
+<img src="https://raw.githubusercontent.com/MSN185/MSN185/main/MSN.png" width="100%" />
 
 </div>
 
